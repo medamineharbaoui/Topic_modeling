@@ -10,7 +10,7 @@ This project aims to perform topic modeling using **Latent Dirichlet Allocation 
 - Use **LDA-FromPkl.py** for topic modeling using LDA.
 - Use **BERTopicFromSubfile.py** for topic modeling using BERTopic.
 - Compute **coherence** and **diversity** metrics for each model.
-- Process the topic modeling results from Lamirel (ArXiv10010gnge1-tn.fuvp).
+- Process the topic modeling results given by th professor (ArXiv10010gnge1-tn.fuvp).
 
 ## Installation & Setup
 ### Prerequisites
@@ -65,7 +65,7 @@ Similar to LDA, **BERTopicFromSubfile.py** required:
 - Saving the dataset to `dataset.csv`.
 - Storing the BERTopic results in `BERTopicFromSubfile_results/top_words.json`.
 
-## Processing Lamirel Results
+## Processing Professors Results
 We processed `ArXiv10010gnge1-tn.fuvp`, extracting only the **first 20 words** of each topic.
 
 ## Evaluating Topic Models
@@ -73,9 +73,7 @@ We implemented **two key metrics**:
 1. **Coherence**: Measures topic quality based on word co-occurrence.
 2. **Diversity**: Measures word uniqueness across topics.
 
-Each model's top **20 words** for **10 topics** were used as input, producing **one numeric score per model**:
-- LDA: Coherence = `X.XX`, Diversity = `Y.YY`
-- BERTopic: Coherence = `A.AA`, Diversity = `B.BB`
+Each model's top **20 words** for **10 topics** were used as input, producing **one numeric score per model**.
 
 ## Final Deliverables
 - **Topic Modeling Results:**
@@ -95,7 +93,7 @@ Each model's top **20 words** for **10 topics** were used as input, producing **
 
   - BERTopic: `BERTopicFromSubfile_results/top_words.json`
 
-  ![LDA_Results](/Screenshots/BERTopic_1.png
+  ![LDA_Results](/Screenshots/BERTopic_1.png)
 
 
 ## Conclusion
