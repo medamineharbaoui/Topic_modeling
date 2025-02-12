@@ -28,8 +28,6 @@ The dataset consists of **400 ArXiv document summaries**. First, we need to gene
 #### Running `MakeLexiconandTDM.py`
 **Issue faced:** Missing tagger package in NLTK.
 
-![Error](/Screenshots/error.png)
-
 **Solution:** Download and manually install the missing package:
 1. Download from: [Averaged Perceptron Tagger](https://github.com/nltk/nltk_data/blob/gh-pages/packages/taggers/averaged_perceptron_tagger_eng.zip)
 2. Extract the files and place them in your NLTK taggers directory.
@@ -79,24 +77,10 @@ Each model's top **20 words** for **10 topics** were used as input, producing **
 
 ## Final Deliverables
 - **Topic Modeling Results:**
+
   - LDA: `lda_results_ArXiv400.json`
 
-  ![LDA_Results](/Screenshots/LDA1.png)
-
-  ![LDA_Results](/Screenshots/LDA2.png)
-
-  ![LDA_Results](/Screenshots/LDA3.png)
-
-  ![LDA_Results](/Screenshots/LDA4.png)
-
-  ![LDA_Results](/Screenshots/LDA5.png)
-
-  ![LDA_Results](/Screenshots/LDA_result.png)
-
   - BERTopic: `BERTopicFromSubfile_results/top_words.json`
-
-  ![LDA_Results](/Screenshots/BERTopic_1.png
-
 
 ## Conclusion
 This project successfully applied **LDA** and **BERTopic** for topic modeling, handled **multiprocessing challenges on Windows**, and computed **coherence & diversity scores** to evaluate the models.

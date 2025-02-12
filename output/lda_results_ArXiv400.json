@@ -1,0 +1,508 @@
+{
+    "topic_descriptions": [
+        {
+            "topic": 1,
+            "terms": [
+                {
+                    "word": "classifier",
+                    "probability": 0.04400181397795677
+                },
+                {
+                    "word": "method",
+                    "probability": 0.03293531760573387
+                },
+                {
+                    "word": "kernel",
+                    "probability": 0.030378734692931175
+                },
+                {
+                    "word": "classification",
+                    "probability": 0.0295224878937006
+                },
+                {
+                    "word": "data",
+                    "probability": 0.02435288392007351
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.022841325029730797
+                },
+                {
+                    "word": "diversity",
+                    "probability": 0.018455760553479195
+                },
+                {
+                    "word": "accuracy",
+                    "probability": 0.017663555219769478
+                },
+                {
+                    "word": "result",
+                    "probability": 0.016830924898386
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.013032842427492142
+                }
+            ]
+        },
+        {
+            "topic": 2,
+            "terms": [
+                {
+                    "word": "data",
+                    "probability": 0.09475965797901154
+                },
+                {
+                    "word": "method",
+                    "probability": 0.03888837993144989
+                },
+                {
+                    "word": "rule",
+                    "probability": 0.024060213938355446
+                },
+                {
+                    "word": "mining",
+                    "probability": 0.023139402270317078
+                },
+                {
+                    "word": "domain",
+                    "probability": 0.02139388956129551
+                },
+                {
+                    "word": "projection",
+                    "probability": 0.019168490543961525
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.018006721511483192
+                },
+                {
+                    "word": "association",
+                    "probability": 0.016777025535702705
+                },
+                {
+                    "word": "analysis",
+                    "probability": 0.01664060167968273
+                },
+                {
+                    "word": "instance",
+                    "probability": 0.016541270539164543
+                }
+            ]
+        },
+        {
+            "topic": 3,
+            "terms": [
+                {
+                    "word": "method",
+                    "probability": 0.03466526046395302
+                },
+                {
+                    "word": "cluster",
+                    "probability": 0.029611941426992416
+                },
+                {
+                    "word": "problem",
+                    "probability": 0.019240401685237885
+                },
+                {
+                    "word": "machine",
+                    "probability": 0.01649436540901661
+                },
+                {
+                    "word": "function",
+                    "probability": 0.014652706682682037
+                },
+                {
+                    "word": "solution",
+                    "probability": 0.014201130717992783
+                },
+                {
+                    "word": "network",
+                    "probability": 0.013688551262021065
+                },
+                {
+                    "word": "analysis",
+                    "probability": 0.013204121962189674
+                },
+                {
+                    "word": "vector",
+                    "probability": 0.012834601104259491
+                },
+                {
+                    "word": "knowledge",
+                    "probability": 0.012149128131568432
+                }
+            ]
+        },
+        {
+            "topic": 4,
+            "terms": [
+                {
+                    "word": "model",
+                    "probability": 0.059083208441734314
+                },
+                {
+                    "word": "data",
+                    "probability": 0.031065335497260094
+                },
+                {
+                    "word": "method",
+                    "probability": 0.026338644325733185
+                },
+                {
+                    "word": "information",
+                    "probability": 0.023270560428500175
+                },
+                {
+                    "word": "parameter",
+                    "probability": 0.01762833259999752
+                },
+                {
+                    "word": "approach",
+                    "probability": 0.014211928471922874
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.013672459870576859
+                },
+                {
+                    "word": "prediction",
+                    "probability": 0.013486613519489765
+                },
+                {
+                    "word": "time",
+                    "probability": 0.012494591996073723
+                },
+                {
+                    "word": "result",
+                    "probability": 0.012191226705908775
+                }
+            ]
+        },
+        {
+            "topic": 5,
+            "terms": [
+                {
+                    "word": "problem",
+                    "probability": 0.02870994806289673
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.02471197582781315
+                },
+                {
+                    "word": "network",
+                    "probability": 0.024340134114027023
+                },
+                {
+                    "word": "performance",
+                    "probability": 0.022950606420636177
+                },
+                {
+                    "word": "user",
+                    "probability": 0.0152841005474329
+                },
+                {
+                    "word": "information",
+                    "probability": 0.014485224150121212
+                },
+                {
+                    "word": "technique",
+                    "probability": 0.013885533437132835
+                },
+                {
+                    "word": "result",
+                    "probability": 0.0134468674659729
+                },
+                {
+                    "word": "policy",
+                    "probability": 0.012590995989739895
+                },
+                {
+                    "word": "bandit",
+                    "probability": 0.012046915479004383
+                }
+            ]
+        },
+        {
+            "topic": 6,
+            "terms": [
+                {
+                    "word": "game",
+                    "probability": 0.04280219227075577
+                },
+                {
+                    "word": "function",
+                    "probability": 0.0338338278234005
+                },
+                {
+                    "word": "tree",
+                    "probability": 0.027429774403572083
+                },
+                {
+                    "word": "class",
+                    "probability": 0.024552246555685997
+                },
+                {
+                    "word": "term",
+                    "probability": 0.023591239005327225
+                },
+                {
+                    "word": "propagation",
+                    "probability": 0.018898723646998405
+                },
+                {
+                    "word": "convergence",
+                    "probability": 0.01756969653069973
+                },
+                {
+                    "word": "distribution",
+                    "probability": 0.016767559573054314
+                },
+                {
+                    "word": "predictor",
+                    "probability": 0.015553646720945835
+                },
+                {
+                    "word": "partition",
+                    "probability": 0.013793200254440308
+                }
+            ]
+        },
+        {
+            "topic": 7,
+            "terms": [
+                {
+                    "word": "data",
+                    "probability": 0.03258393704891205
+                },
+                {
+                    "word": "problem",
+                    "probability": 0.03251785784959793
+                },
+                {
+                    "word": "point",
+                    "probability": 0.028436383232474327
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.02019219845533371
+                },
+                {
+                    "word": "layer",
+                    "probability": 0.01952746883034706
+                },
+                {
+                    "word": "time",
+                    "probability": 0.017432553693652153
+                },
+                {
+                    "word": "test",
+                    "probability": 0.01615910418331623
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.01579911634325981
+                },
+                {
+                    "word": "method",
+                    "probability": 0.015007773414254189
+                },
+                {
+                    "word": "result",
+                    "probability": 0.014947538264095783
+                }
+            ]
+        },
+        {
+            "topic": 8,
+            "terms": [
+                {
+                    "word": "graph",
+                    "probability": 0.027626443654298782
+                },
+                {
+                    "word": "sample",
+                    "probability": 0.023837916553020477
+                },
+                {
+                    "word": "probability",
+                    "probability": 0.01919303648173809
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.01883935183286667
+                },
+                {
+                    "word": "estimation",
+                    "probability": 0.017199749127030373
+                },
+                {
+                    "word": "agent",
+                    "probability": 0.015270382165908813
+                },
+                {
+                    "word": "control",
+                    "probability": 0.014413982629776001
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.01292924489825964
+                },
+                {
+                    "word": "random",
+                    "probability": 0.012879211455583572
+                },
+                {
+                    "word": "framework",
+                    "probability": 0.012145238928496838
+                }
+            ]
+        },
+        {
+            "topic": 9,
+            "terms": [
+                {
+                    "word": "problem",
+                    "probability": 0.0369696281850338
+                },
+                {
+                    "word": "distribution",
+                    "probability": 0.03312579169869423
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.028712531551718712
+                },
+                {
+                    "word": "model",
+                    "probability": 0.01625651679933071
+                },
+                {
+                    "word": "number",
+                    "probability": 0.015847882255911827
+                },
+                {
+                    "word": "result",
+                    "probability": 0.014972115866839886
+                },
+                {
+                    "word": "case",
+                    "probability": 0.012755211442708969
+                },
+                {
+                    "word": "generalization",
+                    "probability": 0.01207918394356966
+                },
+                {
+                    "word": "decision",
+                    "probability": 0.01174530852586031
+                },
+                {
+                    "word": "paper",
+                    "probability": 0.01155797764658928
+                }
+            ]
+        },
+        {
+            "topic": 10,
+            "terms": [
+                {
+                    "word": "problem",
+                    "probability": 0.051998723298311234
+                },
+                {
+                    "word": "algorithm",
+                    "probability": 0.02206367254257202
+                },
+                {
+                    "word": "classification",
+                    "probability": 0.021403571590781212
+                },
+                {
+                    "word": "kernel",
+                    "probability": 0.018853100016713142
+                },
+                {
+                    "word": "task",
+                    "probability": 0.01744699291884899
+                },
+                {
+                    "word": "regression",
+                    "probability": 0.017281660810112953
+                },
+                {
+                    "word": "selection",
+                    "probability": 0.01656685397028923
+                },
+                {
+                    "word": "matrix",
+                    "probability": 0.01533796451985836
+                },
+                {
+                    "word": "approach",
+                    "probability": 0.014470011927187443
+                },
+                {
+                    "word": "function",
+                    "probability": 0.013910161331295967
+                }
+            ]
+        }
+    ],
+    "perplexity": -6.085314493733522,
+    "coherence": 0.2929741521521279,
+    "most_typical_documents": [
+        {
+            "topic": 1,
+            "most_typical_document": 322,
+            "proportion": 0.9967055320739746
+        },
+        {
+            "topic": 2,
+            "most_typical_document": 273,
+            "proportion": 0.9960574507713318
+        },
+        {
+            "topic": 3,
+            "most_typical_document": 89,
+            "proportion": 0.9961117506027222
+        },
+        {
+            "topic": 4,
+            "most_typical_document": 283,
+            "proportion": 0.9975109100341797
+        },
+        {
+            "topic": 5,
+            "most_typical_document": 375,
+            "proportion": 0.9965744614601135
+        },
+        {
+            "topic": 6,
+            "most_typical_document": 131,
+            "proportion": 0.9958237409591675
+        },
+        {
+            "topic": 7,
+            "most_typical_document": 187,
+            "proportion": 0.9971646666526794
+        },
+        {
+            "topic": 8,
+            "most_typical_document": 206,
+            "proportion": 0.9955422282218933
+        },
+        {
+            "topic": 9,
+            "most_typical_document": 3,
+            "proportion": 0.99701988697052
+        },
+        {
+            "topic": 10,
+            "most_typical_document": 117,
+            "proportion": 0.9965947270393372
+        }
+    ]
+}
